@@ -1,0 +1,3 @@
+include ':GhoudanLibrary'
+include ':app'
+rootProject.name = "GhoudanUtils"
